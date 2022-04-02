@@ -1,0 +1,9 @@
+passo a passo:
+
+* entre no github crie um repositório 
+* copie o link e use o comando git add <link>
+* depois que tiver digitado a sua linha de codigo ou quelquer outro trabalho que deseje subir para a nuvem 
+use o comando git add <nome do arquivo> para que seu arquivo mude para o status "track"
+* depois que o git estiver acompanhando o seu arquivo você precisar usar o comando git commit para que seu arquivo fique pronto para ir para o servidor, você tambem pode adicionar um comentario a sua commit para saber do que se trata aquele arquivo com o comando git commit -m <comentario>
+* depois você pode usar o comando git status para saber se o seu arquivo está pronto para fazer o upload para a nuvem 
+* por ultimo é só usar o comando git push para publicar aquele arquivo no github. 
