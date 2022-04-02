@@ -1,0 +1,3 @@
+         O git é um sistema distribuído no qual usa o sistema de criptografia SHA1 (que foi desenvolvido pela NSA) com o git é possível que múltiplas equipes ou squads possam trabalhar no mesmo código, pois com esse sistema de encriptação é gerada uma chave diferente a cada modificação, fazendo com que seja possível localizar uma versão mais antiga que não tenha o erro ou que não tenha sido corrompida. 
+          A lógica do git gira em torno de um ciclo de vida dos arquivos que vai de untracked, unmodified, modified e staged sendo que o ultimo está pronto para ser commit e recomeçar esse “ciclo de vida”, como dito anteriormente o programa vai saber que os arquivos foram alterados ou não graças ao SHA1 e seu código com 40 caracteres únicos. 
+                           
